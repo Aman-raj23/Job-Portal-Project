@@ -578,7 +578,7 @@ include 'constants/check-login.php';
 							
 								<h5 class="footer-title">Nightingale Jobs Contact</h5>
 								
-								<p>Address :Bashirpura, Jalandhar, Punjab, 144001</p>
+								<p>Address :xyz, xyz, 100110</p>
 								<p>Email : <a href="mailto:03aman.raj2003@gmail.com">03aman.raj2003@gmail.com</a></p>
 								<p>Phone : <a href="tel:+233546607474">+233 546 607 474</a></p>
 								
