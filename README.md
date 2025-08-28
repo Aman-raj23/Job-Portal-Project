@@ -91,6 +91,7 @@ Job_Portal/
 
 ### Job Listings
 ![Job Listings Screenshot](screenshots/jobs.png)
+You can viwe the listed job here
 -->
 ---
 
