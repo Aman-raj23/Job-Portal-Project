@@ -550,7 +550,7 @@ include 'constants/check-login.php';
 									
 										<div class="footer-about-us">
 											<h5 class="footer-title">About Nightingale Jobs</h5>
-											<p>Nightingale Jobs is a job portal, online job management system developed by Aman Raj and team for his project in february 2024.</p>
+											<p>Nightingale Jobs is a job portal, online job management system developed by Aman Raj and team for his project in June 2024.</p>
 										
 										</div>
 
