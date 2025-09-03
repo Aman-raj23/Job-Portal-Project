@@ -106,7 +106,7 @@ You can viwe the listed job here
 
 ## 👤 Credits
 
-Developed with ❤️ by **Raj**
+Developed with ❤️ by [Aman Raj](https://github.com/Aman-raj23).
 
 ---
 
