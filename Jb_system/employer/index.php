@@ -449,7 +449,7 @@ header("location:../");
 									
 										<div class="footer-about-us">
 											<h5 class="footer-title">About Nightingale Jobs</h5>
-											<p>Nightingale Jobs is a job portal, online job management system developed by Nathaniel Nkrumah for his project in february 2018.</p>
+											<p>Nightingale Jobs is a job portal, online job management system developed by Aman Raj and team for his project in June 2024.</p>
 										
 										</div>
 
@@ -477,10 +477,11 @@ header("location:../");
 							
 								<h5 class="footer-title">Nightingale Jobs Contact</h5>
 								
-								<p>Address : Takoradi, School Junction PO.BOX AX40</p>
-								<p>Email : <a href="mailto:nightingale.nath2@gmail.com">nightingale.nath2@gmail.com</a></p>
+								<p>Address : xyz, xyz, 144001</p>
+								<p>Email : <a href="mailto:03aman.raj2003@gmail.com">03aman.raj2003@gmail.com</a></p>
 								<p>Phone : <a href="tel:+233546607474">+233 546 607 474</a></p>
 								
+
 							</div>
 
 							
@@ -498,7 +499,6 @@ header("location:../");
 						
 							<div class="col-sm-4 col-md-4">
 					
-								
 								<p class="copy-right">&#169; Copyright <?php echo date('Y'); ?> Nightingale Vision Software</p>
 								
 							</div>
@@ -506,7 +506,7 @@ header("location:../");
 							<div class="col-sm-4 col-md-4">
 							
 								<ul class="bottom-footer-menu">
-									<li><a >Developed by Nathaniel Nkrumah</a></li>
+									<li><a >Developed by Aman Raj and team</a></li>
 								</ul>
 							
 							</div>
