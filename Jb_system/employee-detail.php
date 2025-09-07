@@ -624,7 +624,7 @@ header("location:./");
 									
 										<div class="footer-about-us">
 											<h5 class="footer-title">About Nightingale Jobs</h5>
-											<p>Nightingale Jobs is a job portal, online job management system developed by Aman Raj and team for his project in february 2018.</p>
+											<p>Nightingale Jobs is a job portal, online job management system developed by Aman Raj and team for his project in June 2024</p>
 										
 										</div>
 
@@ -652,9 +652,9 @@ header("location:./");
 							
 								<h5 class="footer-title">Nightingale Jobs Contact</h5>
 								
-								<p>Address :Bashirpura, Jalandhar, Punjab, 144001</p>
+								<p>Address : xyz, xyz, 144001</p>
 								<p>Email : <a href="mailto:03aman.raj2003@gmail.com">03aman.raj2003@gmail.com</a></p>
-								<p>Phone : <a href="tel:+233546607474">+233 546 607 474</a></p>
+								<p>Phone : <a href="tel:+912233445566">+91 22334 45566</a></p>
 								
 
 							</div>
