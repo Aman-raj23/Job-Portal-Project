@@ -28,6 +28,7 @@ Job_Portal/
 ├── index.php # Home page
 ├── README.md # Project guide
 └── .gitignore
+
 ```
 
 
