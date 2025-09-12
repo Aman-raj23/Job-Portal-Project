@@ -13,7 +13,6 @@ A complete PHP & MySQL based Job Portal application that allows **job seekers** 
 - 📄 Resume upload for applicants  
 - 📢 Dynamic dashboard for both roles  
 - 🔐 Secure login system (hashed passwords)  
-
 ---
 
 ## 📂 Project Structure
@@ -28,7 +27,6 @@ Job_Portal/
 ├── index.php # Home page
 ├── README.md # Project guide
 └── .gitignore
-
 ```
 
 
