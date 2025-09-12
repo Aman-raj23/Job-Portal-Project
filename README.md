@@ -4,6 +4,7 @@ A complete PHP & MySQL based Job Portal application that allows **job seekers** 
 
 ---
 
+
 ## 🚀 Features
 
 - 👨‍💼 Employer login, job posting, and management  
