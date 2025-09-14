@@ -29,7 +29,6 @@ Job_Portal/
 └── .gitignore
 ```
 
-
 ---
 
 ## 🛠️ Requirements
