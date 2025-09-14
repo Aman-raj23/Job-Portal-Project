@@ -4,7 +4,6 @@ A complete PHP & MySQL based Job Portal application that allows **job seekers** 
 
 ---
 
-
 ## 🚀 Features
 
 - 👨‍💼 Employer login, job posting, and management  
@@ -12,7 +11,8 @@ A complete PHP & MySQL based Job Portal application that allows **job seekers** 
 - 🔍 Job search with filters  
 - 📄 Resume upload for applicants  
 - 📢 Dynamic dashboard for both roles  
-- 🔐 Secure login system (hashed passwords)  
+- 🔐 Secure login system (hashed passwords)
+  
 ---
 
 ## 📂 Project Structure
