@@ -1,6 +1,5 @@
 # 🧑‍💼 Job Portal System
 
-
 A complete PHP & MySQL based Job Portal application that allows **job seekers** to find and apply for jobs, and **employers** to post and manage vacancies.
 
 ---
