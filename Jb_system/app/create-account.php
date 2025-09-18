@@ -7,7 +7,6 @@ checkemail();
 header("location:../");		
 }
 
-
 function checkemail() {
 	
 try {
