@@ -165,8 +165,7 @@ include 'constants/check-login.php';
 				</div>
 				
 			</div>
-
-			
+	
 		</header>
 
 		<div class="main-wrapper">
