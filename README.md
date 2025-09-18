@@ -18,6 +18,7 @@ A complete PHP & MySQL based Job Portal application that allows **job seekers** 
 ## 📂 Project Structure
 
 ```
+
 Job_Portal/
 │
 ├── Jb_system/ # Main PHP application
